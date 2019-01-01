@@ -1,9 +1,12 @@
 ---
 title: "A little bit about having fun with markup"
 date: 2019-01-01
+
 ---
 
-# One Hash
+
+# Fun fun fun
+
 ## Two Hash
 ### Three Hash
 
