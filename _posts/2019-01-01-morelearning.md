@@ -1,11 +1,19 @@
-# Heading 1
-## Heading 2
-### Heading 3
+---
+title: "A little bit about having fun with markup"
+date: 2019-01-01
+---
 
-*Bolded Stuff*
+# One Hash
+## Two Hash
+### Three Hash
 
-_emphasised stuff_
+*One Star*
+
+_One Underline_
 
 **double star**
 
-_*double underline*_
+__double underline__
+
+**__double star and double underline__**
+
